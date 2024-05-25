@@ -1,0 +1,16 @@
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.exe
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.deps.json
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.runtimeconfig.json
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.dll
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\ref\Ćwiczenie 7 - Chain of responsibility.dll
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\bin\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.pdb
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.csproj.AssemblyReference.cache
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.AssemblyInfo.cs
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.dll
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\ref\Ćwiczenie 7 - Chain of responsibility.dll
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.pdb
+C:\Users\Student\source\repos\Ćwiczenie 7 - Chain of responsibility\Ćwiczenie 7 - Chain of responsibility\obj\Debug\net5.0\Ćwiczenie 7 - Chain of responsibility.genruntimeconfig.cache
